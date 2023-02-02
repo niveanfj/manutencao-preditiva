@@ -13,7 +13,7 @@ Realizar a manipulação de dados, treinamento de modelo, análise e classifica�
 
 ## 🛠 Instalação
 #### Clonar o repositório
-      $ git clone https://github.com/niveanfj/manutecao-preditiva
+      $ git clone https://github.com/niveanfj/manutencao-preditiva
 #### Instalação das dependencias
       sudo pip install -r requirements.txt
 #### Executando
